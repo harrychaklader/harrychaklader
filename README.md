@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harrychaklader
--  I’m interested in blockchain, zero-knowledge, finance.
--  I’m currently learning zk-dapps and a student at Virginia Tech.
--  reach me @hchak#1625 -> discord.
+👋 Hi, I’m @harrychaklader
+Interested in blockchain, zero-knowledge, finance.
+Learning zk-dapps and a student at Virginia Tech.
+@hchak#1625 -> discord.
